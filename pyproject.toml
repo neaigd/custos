@@ -1,0 +1,16 @@
+[project]
+name = "custos"
+version = "0.1.0"
+description = "Automatiza o processamento de documentos digitais para fins forenses"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "Pillow",
+    "exifread",
+    "PyPDF2",
+    "mutagen",
+    "openpyxl",
+    "pandas",
+    "fpdf2",
+    "watchdog"
+]

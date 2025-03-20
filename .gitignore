@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+environment/
+myvenv/
+*.egg-info/
+*.log
+
+# Distributions
+dist/
+build/
+sdist/
+
+# PyInstaller
+**/__pycache__
+.pytest_cache
+*.spec
+*.one
+*.exe
+*.app
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Others
+*.swp
+*~
+*.bak
+*.tmp
+tmp/
+temp/
+temp.*
+*.DS_Store
+.idea/
+.vscode/
+.qodo
