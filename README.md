@@ -1,8 +1,12 @@
-<img src="https://github.com/p31x070/fact_chek/raw/main/LogoNIAD.png" alt="NIAD Logo" height="150">
+<div align="center">
+    <img src="https://github.com/p31x070/fact_chek/raw/main/LogoNIAD.png" alt="NIAD Logo" height="200">
+</div>
 
 # Custos - Custódia e Organização de Documentos
 
-<img src="https://github.com/neaigd/custos/raw/main/modelagem_custus.png" alt="Diagrama Flowchart" height="300">
+<div align="center">
+    <img src="https://github.com/neaigd/custos/raw/main/modelagem_custus.png" alt="Diagrama Flowchart" height="700">
+</div>
 
 ## Descrição
 
