@@ -2,7 +2,7 @@
 
 # Custos - Custódia e Organização de Documentos
 
-![Diagrama de Fluxo](diagram.png)
+![Diagrama Flowchart](https://github.com/neaigd/custos/raw/main/modelagem_custus.png)
 
 ## Descrição
 
