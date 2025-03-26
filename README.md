@@ -1,8 +1,8 @@
-![NIAD Logo](https://github.com/p31x070/fact_chek/raw/main/LogoNIAD.png)
+<img src="https://github.com/p31x070/fact_chek/raw/main/LogoNIAD.png" alt="NIAD Logo" height="150">
 
 # Custos - Custódia e Organização de Documentos
 
-![Diagrama Flowchart](https://github.com/neaigd/custos/raw/main/modelagem_custus.png)
+<img src="https://github.com/neaigd/custos/raw/main/modelagem_custus.png" alt="Diagrama Flowchart" height="300">
 
 ## Descrição
 
