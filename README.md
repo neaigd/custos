@@ -2,6 +2,8 @@
 
 # Custos - Custódia e Organização de Documentos
 
+![Diagrama de Fluxo](images/diagram.png)
+
 ## Descrição
 
 Este projeto tem como objetivo automatizar o processamento de documentos digitais (imagens, PDFs, arquivos de áudio, planilhas, documentos de texto, ZIPs) recebidos via WhatsApp e Gmail, garantindo a integridade e autenticidade das evidências para análises e processos judiciais.
