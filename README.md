@@ -2,7 +2,7 @@
 
 # Custos - Custódia e Organização de Documentos
 
-![Diagrama de Fluxo](images/diagram.png)
+![Diagrama de Fluxo](diagram.png)
 
 ## Descrição
 
